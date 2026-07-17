@@ -5,20 +5,20 @@ Users can explore available job opportunities, view job details, and submit appl
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🔍 Search jobs by title, company, or skills
-- 📂 Filter jobs by domain/category
-- 👀 View detailed job information
-- 📝 Apply for jobs through an application form
-- 💾 Store submitted applications using browser Local Storage
-- 🔐 Login interface
-- 📱 Responsive design using Bootstrap
-- ⚡ Fast and interactive React UI
+- Search jobs by title, company, or skills
+- Filter jobs by domain/category
+- View detailed job information
+- Apply for jobs through an application form
+- Store submitted applications using browser Local Storage
+- Login interface
+- Responsive design using Bootstrap
+- Fast and interactive React UI
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Frontend
 
@@ -41,7 +41,7 @@ Users can explore available job opportunities, view job details, and submit appl
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 jobfinder-pro-react/
@@ -68,7 +68,7 @@ jobfinder-pro-react/
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ### 1. Clone the repository
 
@@ -108,7 +108,7 @@ http://localhost:3000
 
 ---
 
-## 📸 Application Screens
+## Application Screens
 
 ### Home Page
 
@@ -136,7 +136,7 @@ Submitted applications are stored in Local Storage.
 
 ---
 
-## 💾 Local Storage
+## Local Storage
 
 Applications are stored with the key:
 
@@ -174,7 +174,7 @@ JSON.parse(localStorage.getItem("applications"));
 
 ---
 
-## 🎯 Future Improvements
+## Future Improvements
 
 - User authentication with backend
 - Admin dashboard for recruiters
