@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Senior Frontend Engineer",
+    "company": "TechNova Solutions",
+    "domain": "Technology",
+    "location": "Mumbai, Maharashtra",
+    "salary": "Rs.30,000/- to Rs.40,000/-",
+    "type": "Full-Time",
+    "description": "Lead the development of next-generation user interfaces using React and TypeScript. Focus on performance, scalability, and modern web standards. Minimum 5 years of experience required."
+  },
+  {
+    "id": 2,
+    "title": "Data Scientist (Machine Learning)",
+    "company": "Global Analytics Inc.",
+    "domain": "Data Science",
+    "location": "Bangalore, Karnatak",
+    "salary": "Rs.25,000/- to Rs.30,000/- ",
+    "type": "Full-Time",
+    "description": "Build and deploy machine learning models to solve complex business problems. Proficiency in Python, Pandas, and cloud platforms (AWS/GCP) is essential."
+  },
+  {
+    "id": 3,
+    "title": "UX/UI Designer",
+    "company": "Creative Spark",
+    "domain": "Design",
+    "location": "Pune, Maharashtra",
+    "salary": "Rs.20,000/- to Rs.30,000/-",
+    "type": "Contract",
+    "description": "Design intuitive and aesthetically pleasing user experiences for mobile and web applications. Must have a strong portfolio and expertise in Figma or Sketch."
+  },
+  {
+    "id": 4,
+    "title": "Financial Analyst",
+    "company": "CapStone Investments",
+    "domain": "Finance",
+    "location": "Mumbai, Maharshtra",
+    "salary": "Rs.35,000/- to Rs.40,000/-",
+    "type": "Full-Time",
+    "description": "Analyze market trends, prepare financial forecasts, and support budget planning for investment portfolios. Strong Excel and communication skills required."
+  },
+  {
+    "id": 5,
+    "title": "HR Specialist",
+    "company": "PeopleFirst Corp.",
+    "domain": "Human Resources",
+    "location": "Mumbai, Maharashtra",
+    "salary": "Rs.50,000/- to Rs.60,000/-",
+    "type": "Full-Time",
+    "description": "Manage employee relations, recruitment, and onboarding processes. Ensure compliance with labor laws and company policies."
+  },
+  {
+    "id": 6,
+    "title": "Marketing Manager",
+    "company": "BrandBuilder Agency",
+    "domain": "Marketing",
+    "location": "Bangalore, Karnatak",
+    "salary": "Rs.50,000/- to Rs.60,000/-",
+    "type": "Full-Time",
+    "description": "Develop and execute integrated marketing campaigns across digital and traditional channels. Experience with SEO/SEM and content strategy is a plus."
+  },
+  {
+    "id": 7,
+    "title": "Junior Software Developer",
+    "company": "Startup X",
+    "domain": "Technology",
+    "location": "Mumbai, Maharashtra",
+    "salary": "Rs.20,000/- to Rs.30,000/-",
+    "type": "Full-Time",
+    "description": "Entry-level position focusing on building and maintaining backend services using Node.js and MongoDB. Great opportunity for recent graduates."
+  },
+  {
+    "id": 8,
+    "title": "Operations Coordinator",
+    "company": "Logistics Hub",
+    "domain": "Operations",
+    "location": "Mumbai, Maharashtra",
+    "salary": "Rs.35,000/- to Rs.45,000/-",
+    "type": "Part-Time",
+    "description": "Coordinate daily operational activities, manage inventory, and optimize supply chain processes."
+  }
+]

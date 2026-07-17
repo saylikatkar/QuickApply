@@ -1,0 +1,9 @@
+:root {
+  --bs-primary: #5e35b1;
+  --bs-secondary: #ffb300;
+  --bs-body-bg: #f4f7f6;
+}
+body { background-color: var(--bs-body-bg); }
+.main-container { padding-top: 20px; padding-bottom: 40px; }
+.job-card { border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.05); cursor: pointer; }
+.hero-section { background: linear-gradient(135deg,#ede7f6,#d1c4e9); padding: 40px; border-radius: 12px; }
